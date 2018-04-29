@@ -10,6 +10,7 @@ public class JustHello {
                     flag = false;
                     a[i] = a[i + 1];
                     a[i + 1] = b;
+                    System.out.println();
                 }
             }
         }
